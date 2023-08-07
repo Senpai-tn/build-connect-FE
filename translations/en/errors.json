@@ -1,5 +1,6 @@
 {
   "used_email": "Email already used",
   "under_age": "Under age. You must be at least 18 years",
-  "required": "Field {{field}} is required"
+  "required": "Field {{field}} is required",
+  "disconnected": "Your account is deleted by administration now. contact administration at "
 }

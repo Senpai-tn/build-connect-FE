@@ -1,5 +1,6 @@
 {
   "used_email": "Adresse email utilisée déja !",
   "under_age": "Vous devez avoir au moins 18 ans",
-  "required": "Champs {{field}} est obligatoire"
+  "required": "Champs {{field}} est obligatoire",
+  "disconnected": "Votre compte est maintenant supprimé par l'administration. contacter l'administration à "
 }
